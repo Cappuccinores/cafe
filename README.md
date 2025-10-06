@@ -9,10 +9,11 @@ Honestly it has little use outside of very specific use-cases.
 
 # THIS SCRIPT WAS ALMOST ENTIRELY WRITTEN BY AI BECAUSE I DO NOT KNOW HOW TO CODE, BUT ALL IDEAS AND CREATIVE ASPECTS WERE PERSONALLY DERIVED
 
-To use it, simply download the "cafe.sh" file, run "chmod +x path/to/cafe" to make it an executable, and then run the following in the terminal: "path/to/cafe -h".
+To use it, simply download the "cafe.sh" file, run "chmod +x path/to/cafe" to make it an executable, and then run "path/to/cafe -h" to see all commands.
 
 I haven't fully tested it yet, I've only done some general experimentation so I cannot fully speak on it's integrity or effect on your system, but it should generally run just fine.
 
 I might add more features over time, but don't expect many/big changes to it's functionality
 
 # USE AT YOUR OWN RISK
+-# This description was not written by AI, if you were wondering.
