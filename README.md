@@ -16,4 +16,5 @@ I haven't fully tested it yet, I've only done some general experimentation so I 
 I might add more features over time, but don't expect many/big changes to it's functionality
 
 # USE AT YOUR OWN RISK
--# This description was not written by AI, if you were wondering.
+
+This description was not written by AI, if you were wondering.
