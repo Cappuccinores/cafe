@@ -1,5 +1,5 @@
 # cafe-CLI
--is a simple utility, which I will graciously call a repo-manager (name obtained from AI **:3**), that allows you to grab sources that have PKGBUILDs from branches in a github repo and automatically install them using Pacman and make. 
+-is a simple shell script, which I will graciously call a repo-manager (name obtained from AI **:3**), that allows you to grab sources that have PKGBUILDs from branches in a github repo and automatically install them using Pacman and make. 
 
 The default repo is "``https://github.com/archlinux/aur``", as it is intended to be used only on archlinux to easily pull packages from the mirror repo ("``https://github.com/archlinux/aur``") and install them, but you can specify the desired repo during execution. 
 
